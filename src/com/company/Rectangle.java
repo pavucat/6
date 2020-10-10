@@ -26,7 +26,7 @@ public class Rectangle extends Shape
         return length;
     }
 
-    public void setLength(double lenght) {
+    public void setLength(double length) {
         this.length = length;
     }
 
